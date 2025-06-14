@@ -12,7 +12,7 @@ Team,Warriors,Golden State,USA,Oracle Arena,20000,https://gmgames.org/dm16logos/
 Team,Rockets,Houston,USA,Toyota Center,18000,https://gmgames.org/dm16logos/Team10.png,Southwest,Houston,Texas,,,,,,,,,,,,,,,,,,,,
 Team,Pacers,Indiana,USA,Bankers Life Fieldhouse,19000,https://gmgames.org/dm16logos/Team11.png,Central,Indianapolis,Indiana,,,,,,,,,,,,,,,,,,,,
 Team,Clippers,Los Angeles,USA,Intuit Dome,19000,https://gmgames.org/dm16logos/Team12.png,Pacific,Los Angeles,California,,,,,,,,,,,,,,,,,,,,
-Team,Lakers,Los Angeles,USA,Cryto.com Arena,19000,https://gmgames.org/dm16logos/Team13.png,Pacific,Los Angeles,California,,,,,,,,,,,,,,,,,,,,
+Team,Lakers,Los Angeles,USA,Crypto.com Arena,19000,https://gmgames.org/dm16logos/Team13.png,Pacific,Los Angeles,California,,,,,,,,,,,,,,,,,,,,
 Team,Grizzlies,Memphis,USA,FedEx Forum,18000,https://gmgames.org/dm16logos/Team14.png,Southwest,Memphis,Tennessee,,,,,,,,,,,,,,,,,,,,
 Team,Heat,Miami,USA,American Airlines Arena,20000,https://gmgames.org/dm16logos/Team15.png,Southeast,Miami,Florida,,,,,,,,,,,,,,,,,,,,
 Team,Bucks,Milwaukee,USA,Bradley Center,19000,https://gmgames.org/dm16logos/Team16.png,Central,Milwaukee,Wisconsin,,,,,,,,,,,,,,,,,,,,
